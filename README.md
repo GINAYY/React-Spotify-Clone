@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # 创建项目
 ```
 npm create vite@latest spotify-clone -- --template react
