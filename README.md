@@ -38,7 +38,7 @@ module.exports = {
 @tailwind components;
 @tailwind utilities;
 ```
-
+# 删除APP.CSS
 # 下载插件 ES7
 ![image](https://github.com/user-attachments/assets/a707b754-e1e1-4cc5-879f-caa542ac92d3)
 
